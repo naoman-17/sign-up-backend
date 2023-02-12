@@ -1,3 +1,3 @@
 # sign-up-backend
-a from in html connected with database using php,mysqli
-started date 10 Feb 2023
+A from in html connected with database using php,mysqli
+Started date 10 Feb 2023
